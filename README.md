@@ -7,16 +7,16 @@ This bot is a demo stand for [MADE2020]("https://data.mail.ru) home assignment. 
 Commands details in /help.
 
 ## Usage
-### Look through a carousel of usage examples /examples, press arrow bottons to scroll
+## Look through a carousel of usage examples /examples, press arrow bottons to scroll
 > ![](.github/0.jpeg)
 ###
 > ![](.github/1.jpeg)
 ###
 > ![](.github/2.jpeg)
 
-### Send your own image to try mask detection, for this uses 🤖(detect) botton in /captured_image
+## Send your own image to try mask detection, for this uses 🤖(detect) botton in /captured_image
 > ![](.github/3.jpeg)
 ###
 > ![](.github/4.jpeg)
 
-Happy usage!
+## Happy usage!
