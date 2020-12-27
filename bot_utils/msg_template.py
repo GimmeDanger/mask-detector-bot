@@ -21,7 +21,7 @@ class MsgTemplate:
         if exception_occurred:
             return "Oooops! Something went wrong..."
         elif not success:
-            return 'Error! You should send an image firstly'
+            return 'Error! You should send an image first'
         else:
             return ""
 
